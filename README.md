@@ -40,3 +40,4 @@ I'm always open to collaboration and discussions on coding, protocols, and the N
 
 Remember, the best way to learn is by doing. Keep innovating, keep coding, and keep pushing the boundaries of what's possible on the Now Platform!
 
+[![An image of @dalestubblefield's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dalestubblefield)](https://holopin.io/@dalestubblefield)
