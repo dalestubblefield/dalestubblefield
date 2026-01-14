@@ -20,5 +20,4 @@ Here are some ideas to get you started:
       / \
 ```
 
-ServiceNow tutorials → [YouTube](https://www.youtube.com/@starlordnow)  
-Side project → [SnugBlox](https://mcd.games)
+Favorite Side project → [SnugBlox](https://mcd.games)
